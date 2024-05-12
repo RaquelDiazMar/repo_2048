@@ -1,4 +1,11 @@
+Favorite Food
 rice
 pasta
-watermelos
+watermelon
+
+Favorite Movies
+La bruja novata
+Robin Hood
+Los tres amigos
+
 
